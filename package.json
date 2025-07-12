@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-contentful-migrations",
+  "version": "0.1.0",
+  "description": "ESLint rules for Contentful migration scripts to enforce GraphQL Field Resolver annotations.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "contentful",
+    "migrations",
+    "graphql",
+    "field resolver"
+  ],
+  "main": "index.js",
+  "author": "Mayank Jhunjhunwala",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "eslint": "^9.31.0"
+  }
+}
